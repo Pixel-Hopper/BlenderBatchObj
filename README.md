@@ -1,30 +1,3 @@
-<h1 align="center">BlenderBatchObj</h1>
-
-<br />
-
-<div align="center">
-
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchObj/blob/main/images/robot.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchObj/blob/main/images/moai.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchObj/blob/main/images/robot.svg" width=10% height=10%>
-
-</div>
-
-<br />
-
-<div align="center">
-  <strong>Automatic Obj exporter for all .blend files in the directory</strong>
-</div>
-
-<br />
-
-<div align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/BlenderBatchObj">
-  <a href="https://github.com/jaime-rodriguez-art/BlenderBatchObj/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jaime-rodriguez-art/BlenderBatchObj"></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/BlenderBatchObj">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/BlenderBatchObj">
-</div>
-
 ## Instructions
 
 1. Put every blender file you want to unpack into the same folder as the batch and python script.
