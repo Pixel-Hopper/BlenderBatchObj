@@ -1,16 +1,16 @@
-##🚀 Instructions
+## 🚀 Instructions
 
 1. Put every blender file you want to unpack into the same folder as the batch and python script.
 
 2. Open BlenderObjUnpack.bat. (Or drag and drop)
    
-##🌟 Requirements
+## 🌟 Requirements
 
 1. Blender Installed. (Tested on blender 3.6.2)
 
 2. The Python script , The Batch file and The Blender file/s must be in the same folder.
 
-##🌟 Attribution
+## 🌟 Attribution
 
 Blender, Everyone should be free to create 3D CG content, with free technical and creative production means and free access to markets. https://www.blender.org/
 
@@ -21,6 +21,6 @@ PyPI, The Python Package Index is a repository of software for the Python progra
 
 OpenMoji, Open source emojis for designers, developers and everyone else. https://openmoji.org
 
-##🌟 About Me
+## 🌟 About Me
 
 Artist that likes to code when my textures are baking. https://www.artstation.com/jaimerodriguez 
